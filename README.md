@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning data science and working on some machine learning projects.
-- 💞️ I’m looking to collaborate on deep learning projects-- academic & technical
+- 💞️ I’m looking to collaborate on <b>AI Projects</b>, <b>Data Engineering Projects</b>, <b>Business Intelligence Projects</b>.
 - 📫 How to reach me: brahim.saadi@g.enp.edu.dz
 
 <!---
