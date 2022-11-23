@@ -1,5 +1,5 @@
 <h2>Hi there 👋,</h2>
-<h4>my name is <b>Brahim SAADI</b>, I am Data Science and AI student in the National Polytechnic School of Algiers.</h4>
+<h4>My name is <b>Brahim SAADI</b>, I am Data Science and AI student in the National Polytechnic School of Algiers.</h4>
 
 
 - 🌱 I’m currently learning data science and working on some machine learning projects.
